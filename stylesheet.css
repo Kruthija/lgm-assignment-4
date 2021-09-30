@@ -1,0 +1,55 @@
+#heading{
+    color:blueviolet;
+    text-transform: capitalize;
+}
+#background-image{
+    background-image: url(http://curlytales.com/wp-content/uploads/2018/11/shutterstock_1153818823.jpg);
+    height: 350px;
+    padding-top :50px;
+    color:coral;
+    margin-top:25px;
+
+}
+#content{
+    
+    max-width: 300px;
+    padding: 50px,20px;
+    margin-top:130px;
+}
+#image{
+    height:350px;
+    width:200px;
+}
+.normal{
+    font-style: italic;
+    text-decoration-style: wavy;
+    color:brown;
+    font-size: large;
+    
+}
+#sub{
+    font-style: normal;
+    color:blueviolet;
+    text-decoration-color: chartreuse;
+}
+h2{
+    color:blueviolet;
+}
+#h3{
+    color:black ;
+}
+h4{
+    color:rgba(241, 14, 147, 0.925);
+}
+.thumbnail{
+    display:inline-block;
+    height:400px;
+    padding: 4px;
+    margin-bottom: 20px;
+    background-color: rgb(180, 238, 153);
+    border: 1px solid;
+    text-align: center;
+    color:black;
+    margin:50px;
+}
+
